@@ -1,55 +1,54 @@
 using RimWorld;
 
-namespace LingGame
+namespace LingGame;
+
+public class PowerBelt : Apparel
 {
-    public class PowerBelt : Apparel
+    public float Power = 100f;
+
+    public int ReNeedTime;
+
+    public float PowerReS => this.GetStatValue(StatDefOf.EnergyShieldRechargeRate);
+
+    public float PowerMas => this.GetStatValue(StatDefOf.EnergyShieldEnergyMax);
+
+    public float ReMeedTimemas => this.GetStatValue(StatDefOf.SmokepopBeltRadius);
+
+    private bool CanReP => true;
+
+    public void UsePower(float oe)
     {
-        public float Power = 100f;
+        Power -= oe;
+    }
 
-        public int ReNeedTime;
+    public void UsePower(int BaiFenBi)
+    {
+        Power -= PowerMas / (BaiFenBi / 100f);
+    }
 
-        public float PowerReS => this.GetStatValue(StatDefOf.EnergyShieldRechargeRate);
+    public void UsePower()
+    {
+        Power = 0f;
+    }
 
-        public float PowerMas => this.GetStatValue(StatDefOf.EnergyShieldEnergyMax);
-
-        public float ReMeedTimemas => this.GetStatValue(StatDefOf.SmokepopBeltRadius);
-
-        private bool CanReP => true;
-
-        public void UsePower(float oe)
+    public override void Tick()
+    {
+        base.Tick();
+        if (ReNeedTime > 0)
         {
-            Power -= oe;
+            ReNeedTime--;
+            return;
         }
 
-        public void UsePower(int BaiFenBi)
-        {
-            Power -= PowerMas / (BaiFenBi / 100f);
-        }
-
-        public void UsePower()
+        if (Power <= 0f)
         {
             Power = 0f;
         }
 
-        public override void Tick()
+        Power += PowerReS;
+        if (Power >= PowerMas)
         {
-            base.Tick();
-            if (ReNeedTime > 0)
-            {
-                ReNeedTime--;
-                return;
-            }
-
-            if (Power <= 0f)
-            {
-                Power = 0f;
-            }
-
-            Power += PowerReS;
-            if (Power >= PowerMas)
-            {
-                Power = PowerMas;
-            }
+            Power = PowerMas;
         }
     }
 }

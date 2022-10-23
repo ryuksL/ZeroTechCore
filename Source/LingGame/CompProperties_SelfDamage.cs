@@ -1,12 +1,11 @@
 using Verse;
 
-namespace LingGame
+namespace LingGame;
+
+public class CompProperties_SelfDamage : CompProperties
 {
-    public class CompProperties_SelfDamage : CompProperties
+    public CompProperties_SelfDamage()
     {
-        public CompProperties_SelfDamage()
-        {
-            compClass = typeof(Comp_SelfDamage);
-        }
+        compClass = typeof(Comp_SelfDamage);
     }
 }

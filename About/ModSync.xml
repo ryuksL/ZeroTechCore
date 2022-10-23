@@ -2,7 +2,7 @@
 <ModSyncNinjaData>
   <ID>9baf17e0-001d-4857-9ac6-47d00b321d42</ID>
   <ModName>ZeroTech-Core (Continued)</ModName>
-  <Version>1.0.0.0</Version>
+  <Version>1.4.1</Version>
   <SaveBreaking>False</SaveBreaking>
   <Host name="Github">
     <Owner>emipa606</Owner>
@@ -12,7 +12,3 @@
     <Branch>master</Branch>
   </Host>
 </ModSyncNinjaData>
-
-
-
-

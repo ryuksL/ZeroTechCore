@@ -30,7 +30,6 @@ Zero traders: several extreme traders, you can sell them any marketable items, t
 	
 Language: Simplified Chinese
 Sharing Agreement:MIT
-Giturl https://github.com/LingLuo39/ZeroTech/
 
 ![Image](https://i.imgur.com/PwoNOj4.png)
 
@@ -42,5 +41,6 @@ Giturl https://github.com/LingLuo39/ZeroTech/
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
+
 
 

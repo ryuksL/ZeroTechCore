@@ -1,11 +1,10 @@
 using UnityEngine;
 using Verse;
 
-namespace LingGame
+namespace LingGame;
+
+[StaticConstructorOnStartup]
+public static class ZeroTechCoreUI
 {
-    [StaticConstructorOnStartup]
-    public static class ZeroTechCoreUI
-    {
-        public static Texture2D OverLock = ContentFinder<Texture2D>.Get("LingUI/Overclocking");
-    }
+    public static Texture2D OverLock = ContentFinder<Texture2D>.Get("LingUI/Overclocking");
 }
