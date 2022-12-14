@@ -130,9 +130,7 @@
       <li Class="CompProperties_UseEffect">
         <compClass>LingGame.CompProerties_ZeroTechPowerCoreUsed</compClass>
       </li>
-      <li Class="CompProperties_UseEffect">
-        <compClass>CompUseEffect_DestroySelf</compClass>
-      </li>
+      <li Class="CompProperties_UseEffectDestroySelf" />
     </comps>
     <thingSetMakerTags>
       <li>RewardSpecial</li>
