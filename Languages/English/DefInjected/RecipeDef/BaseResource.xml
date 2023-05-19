@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Pure stuffs: Basics -->
+  <MakeZeroTechWeave.label>Textile zero sub fabric</MakeZeroTechWeave.label>
+  <MakeZeroTechWeave.description>Textile zero sub fabric.</MakeZeroTechWeave.description>
+  <MakeZeroTechWeave.jobString>Weaving zero sub weave.</MakeZeroTechWeave.jobString> 
+  <MakeZeroTechAlloy.label>Forging zero sub alloy</MakeZeroTechAlloy.label>
+  <MakeZeroTechAlloy.description>Forging zero sub alloy.</MakeZeroTechAlloy.description>
+  <MakeZeroTechAlloy.jobString>Forging zero sub alloy.</MakeZeroTechAlloy.jobString>
+</LanguageData>

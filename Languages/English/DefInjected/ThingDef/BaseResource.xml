@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Pure stuffs: Basics -->
+  <ZeroTechGel.label>Zero Sub Gel</ZeroTechGel.label>
+  <ZeroTechGel.description>A very soft material that has been treated with wood-like properties and can be used in many applications.</ZeroTechGel.description>
+  <ZeroTechWeave.label>Zero Sub fabric</ZeroTechWeave.label>
+  <ZeroTechWeave.description>A very elastic fabric that can be used in various occasions and has great properties after treatment.</ZeroTechWeave.description>
+  <ZeroTechAlloy.label>Zero Sub Alloy</ZeroTechAlloy.label>
+  <ZeroTechAlloy.description>A beautiful and strong metal that first appeared in the three-star district, and those who held this metal called it the metal of the gods. According to later research, this should be a new alloy made of fiberglass and an unknown substance, but its outstanding ability is undeniable</ZeroTechAlloy.description>
+  <!--<ZeroTechGel.stuffProps.stuffAdjective>零子凝胶</ZeroTechGel.stuffProps.stuffAdjective>-->
+  <!--<ZeroTechWeave.stuffProps.stuffAdjective>零子织物</ZeroTechWeave.stuffProps.stuffAdjective>-->
+  <!--<ZeroTechAlloy.stuffProps.stuffAdjective>零子合金</ZeroTechAlloy.stuffProps.stuffAdjective>-->
+</LanguageData>

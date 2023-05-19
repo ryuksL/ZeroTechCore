@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <TableZoreTech.label>Zero Sub Workshop</TableZoreTech.label>
+  <TableZoreTech.description>Zero sub Technology's universal workshop can be used to assemble most zero-sub objects.</TableZoreTech.description>
+  <!--<TableZoreTech_Blueprint.label>Zero Seed Workshop(blueprint)</TableZoreTech_Blueprint.label>-->
+  <!--<TableZoreTech_Blueprint_Install.label>Zero Seed Workshop(blueprint)</TableZoreTech_Blueprint_Install.label>-->
+  <!--<TableZoreTech_Frame.label>Zero Seed Workshop(Under construction)</TableZoreTech_Frame.label>-->
+  <!--<TableZoreTech_Frame.description>Zeroseed Technology's universal workshop can be used to assemble most zero-seed objects.</TableZoreTech_Frame.description>-->
+</LanguageData>
