@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- 一切的开始 -->
+  <ZeroTechClear.label>Forget everything</ZeroTechClear.label>
+  <ZeroTechClear.description>Delete all zero-related memories from the conscious level, and completely forget any zero-related research.</ZeroTechClear.description>
+  <ZeroTechClear.discoveredLetterTitle>Forget everything</ZeroTechClear.discoveredLetterTitle>
+  <ZeroTechClear.discoveredLetterText> You forget all the technology associated with Zero.</ZeroTechClear.discoveredLetterText>
+  <ZeroTechBase.label>Zero technology logic</ZeroTechBase.label>
+  <ZeroTechBase.description>The basic technology of Zero Technology seems to be just a few function problems of average difficulty, but the way of solving the problem is extremely strange, and it may be necessary to change the way of thinking to understand\n\nThe production of unlocking the cap of the zero-seed cocktail bottle\nThe production of the unlocking zero-seed processing table</ZeroTechBase.description>
+  <ZeroTechBase.discoveredLetterTitle>The Organ is Triggered</ZeroTechBase.discoveredLetterTitle>
+  <ZeroTechBase.discoveredLetterText> You have successfully understood Zero's mode of thinking, and from then on a new world will unfold before your eyes, and some "non-existent" will come to this planet, and you will survive.</ZeroTechBase.discoveredLetterText>
+  <ZeroTechBaseII.label>Zeroson Technology Logic II</ZeroTechBaseII.label>
+  <ZeroTechBaseII.description>A series of functions similar to the logic of Zerosub Technology, but the content is more distorted, and seems to involve some occult knowledge\n\nunununting the chain of demon communication events</ZeroTechBaseII.description>
+  <ZeroTechBaseII.discoveredLetterTitle>You are being watched</ZeroTechBaseII.discoveredLetterTitle>
+  <ZeroTechBaseII.discoveredLetterText>A pair of huge eyes open over your colony, and when you concentrate on observing again, you see nothing, as if something is about to come. </ZeroTechBaseII.discoveredLetterText>  
+  <ZeroTechBaseIII.label>Zeroson Technology Logic III</ZeroTechBaseIII.label>
+  <ZeroTechBaseIII.description>At first glance, this technique looks like an anagram, but it cannot find the only answer, and it seems to tell the theory of the balance form of everything in the world\nununlock the chain of elemental balance events</ZeroTechBaseIII.description>
+  <ZeroTechBaseIII.discoveredLetterTitle>The elements are quietly pouring in</ZeroTechBaseIII.discoveredLetterTitle>
+  <ZeroTechBaseIII.discoveredLetterText> You begin to feel what is around you, and you can't influence them, but you can feel their actual presence</ZeroTechBaseIII.discoveredLetterText>
+  <!-- 零子材料拓展包 -->
+  <ZeroTechGel.label>Basic zero sub-material</ZeroTechGel.label>
+  <ZeroTechGel.description>To make a material, is there any way to get what you want without compromising existing resources? That is... Turn trash into resources!\nUnlock the crafting of the gel presser, which can convert other substances into gel\nSomething will notice you</ZeroTechGel.description>
+  <ZeroTechAlloy.label>High-grade zero sub-materials</ZeroTechAlloy.label>
+  <ZeroTechAlloy.description>If a material is too weak, try to remove the useless parts\nYou can process the gel\nSomething will pay attention to you</ZeroTechAlloy.description>
+  <!-- 毁灭信号拓展包 -->
+  <ZeroTechFlareGun.label>Signal gun</ZeroTechFlareGun.label>
+  <ZeroTechFlareGun.description>A signal gun filled with special ammunition is not to attract attention, but to make something special happen (mods required:ZeroTech-flare gun)</ZeroTechFlareGun.description>
+  <ZeroTechFlareGunEX.label>Directional signal gun</ZeroTechFlareGunEX.label>
+  <ZeroTechFlareGunEX.description>Random signal guns sometimes tend to lead to not so good results, so why not try controlling the energy fluctuations in the direction you want (mods required:ZeroTech-flare gun)</ZeroTechFlareGunEX.description>
+  <!-- 奇妙食物拓展包 -->
+  <ZeroTechDrugs.label>Zero seed drugs</ZeroTechDrugs.label>
+  <ZeroTechDrugs.description>The really terrible addiction is not that the user is physically unable to leave, but after use, it will not bring any side effects, but psychologically it is completely impossible to give up (mods are required:ZeroTech-meal and drug)</ZeroTechDrugs.description>
+  <ZeroTechMeals.label>Zero seed cooking guide</ZeroTechMeals.label>
+  <ZeroTechMeals.description>Are these things really meals? Our scientists seem to be a bit self-indulgent (mods needed:ZeroTech-meal and drug)</ZeroTechMeals.description>
+  <!-- 创神计划拓展包 -->
+  <ZeroTechBodyPart.label>Limb modification theory</ZeroTechBodyPart.label>
+  <ZeroTechBodyPart.description>Human physical bodies may be infinitely powerful, but if you want to gain great power in a short period of time, you may try mechanical modification (mods required:ZeroTech-bionic)</ZeroTechBodyPart.description>
+  <ZeroTechImpantMaker.label>Implant making</ZeroTechImpantMaker.label>
+  <ZeroTechImpantMaker.description>Is there a limit to human existence? In that case, why don't we try to make a god~\n\nUnlock the puppet, thinking radiation chip, desire suppression chip and other implants (module required: ZeroTech-bionic)</ZeroTechImpantMaker.description>
+  <!-- 步入黑暗拓展包 -->
+  <ZeroTechAdv.label>Zero-child heterogeneity</ZeroTechAdv.label>
+  <ZeroTechAdv.description>What the hell are you doing? This is beyond the scope of science, stop what dangerous things!</ZeroTechAdv.description>
+  <ZeroTechAdv.discoveredLetterTitle>The organ is triggered</ZeroTechAdv.discoveredLetterTitle>
+  <ZeroTechAdv.discoveredLetterText> You have successfully understood Zer's mode of thinking, and from then on a new world will unfold before your eyes, and some "non-existent" will come to this planet, will you survive? </ZeroTechAdv.discoveredLetterText>
+  <!-- 无限能源拓展包 -->
+  <ZeroTechLongRandPower.label>Remote power transmission</ZeroTechLongRandPower.label>
+  <ZeroTechLongRandPower.description>Don't want to see ugly generators? Don't want to trip over a cable while walking?\nSince electricity is also an energy, why not try air-transmitting power (modules required:ZeroTech-power)</ZeroTechLongRandPower.description>
+  <ZeroTechThinkingPower.label>Special energy power generation</ZeroTechThinkingPower.label>
+  <ZeroTechThinkingPower.description>What is the thinking of living beings? But not understanding its existence doesn't mean we can't use it, using a wave absorber to absorb the thinking of living things to get electricity (module required:ZeroTech-power)</ZeroTechThinkingPower.description>
+  <!-- 基地防御拓展包 -->
+  <ZeroTechDenfence.label>Defensive barriers and advanced traps</ZeroTechDenfence.label>
+  <ZeroTechDenfence.description>If the enemy can use the range advantage to strike us, then why not make a barrier that a person can pass through but a high-speed object cannot? Or why don't we try to set a net before the enemy even discovers us, directly destroying the enemy\n\nUnlock the cell barrier and the decomposition barrier craft\nUnlock gas trap and static trap production (mod required: ZeroTech-defence)</ZeroTechDenfence.description>
+  <ZeroTechTurret.label>Defensive turrets vs. attack turrets</ZeroTechTurret.label>
+  <ZeroTechTurret.description>Are automatic weapons really that bad, no! That's because more often people can't make better use of the connection between energy and thought (mods are needed:ZeroTech-defence)</ZeroTechTurret.description>
+  <!-- 否认过去拓展包 -->
+  <ZeroTechFalsePast.label>Abandon technology</ZeroTechFalsePast.label>
+  <ZeroTechFalsePast.description>It's a series of studies that aren't recognized by the vast majority of people, but where they don't know, these technologies are still being developed secretly</ZeroTechFalsePast.description>
+  <ZeroTechFalsePastBionic.label>Set Bionic</ZeroTechFalsePastBionic.label>
+  <ZeroTechFalsePastBionic.description>Using the resonance effect between bionics, the bionic radiation of each piece is combined, which brings a great bonus to the installer</ZeroTechFalsePastBionic.description>
+  <!-- 虚造过去拓展包 -->
+  <ZeroTechTruePast.label>Zero Past</ZeroTechTruePast.label>
+  <ZeroTechTruePast.description>Some of the sealed stories of the Zero Subgroup are not all research for progress, but more about trying to destroy.</ZeroTechTruePast.description>
+  <ZeroTechPuppetDie.label>Puppet funeral song</ZeroTechPuppetDie.label>
+  <ZeroTechPuppetDie.description>They have no life, just a pile of broken iron, which is the vast majority of people's perception of machinery. However, when they begin to develop feelings and begin to be driven by the "self", then everything will change.</ZeroTechPuppetDie.description>
+  <!-- 异端审判拓展包 -->
+  <ZeroTechBaseC.label>The gates of the righteous world</ZeroTechBaseC.label>
+  <ZeroTechBaseC.description>There is nothing here! (Mods required:ZeroTech-heterodox trial)</ZeroTechBaseC.description>
+  <ZeroTechBaseC.discoveredLetterTitle>The door to the world of Justice is opened</ZeroTechBaseC.discoveredLetterTitle>
+  <ZeroTechBaseC.discoveredLetterText> However, it is of no use </ZeroTechBaseC.discoveredLetterText>
+  <ZeroTechBaseCI.label>See the seal of desire</ZeroTechBaseCI.label>
+  <ZeroTechBaseCI.description>What you will unleash!</ZeroTechBaseCI.description>
+  <ZeroTechBaseCII.label>The seal of listening</ZeroTechBaseCII.label>
+  <ZeroTechBaseCII.description>What you will unleash!</ZeroTechBaseCII.description>
+  <ZeroTechBaseCIII.label>The seal of Desire</ZeroTechBaseCIII.label>
+  <ZeroTechBaseCIII.description>What you will unleash!</ZeroTechBaseCIII.description>
+  <ZeroTechBaseCIV.label>The seal of taste</ZeroTechBaseCIV.label>
+  <ZeroTechBaseCIV.description>What you will unleash!</ZeroTechBaseCIV.description>
+  <ZeroTechBaseCV.label>The seal of Touch</ZeroTechBaseCV.label>
+  <ZeroTechBaseCV.description>What you will unleash!</ZeroTechBaseCV.description>
+  <ZeroTechBaseCVI.label>Willingness Seal</ZeroTechBaseCVI.label>
+  <ZeroTechBaseCVI.description>What you will unleash!</ZeroTechBaseCVI.description>
+  <ZeroTechBaseCE.label>The seal of hypocrisy</ZeroTechBaseCE.label>
+  <ZeroTechBaseCE.description>Break the shackles of desire!</ZeroTechBaseCE.description>
+  <ZeroTechBaseCEI.label>The Seal of Ecstasy</ZeroTechBaseCEI.label>
+  <ZeroTechBaseCEI.description>What you will unleash!</ZeroTechBaseCEI.description>
+  <ZeroTechBaseCEII.label>The Seal of Rage</ZeroTechBaseCEII.label>
+  <ZeroTechBaseCEII.description>What you will unleash!</ZeroTechBaseCEII.description>
+  <ZeroTechBaseCEIII.label>The Seal of Grief</ZeroTechBaseCEIII.label>
+  <ZeroTechBaseCEIII.description>What you will unleash!</ZeroTechBaseCEIII.description>
+  <ZeroTechBaseCEIV.label>The Seal of Fear</ZeroTechBaseCEIV.label>
+  <ZeroTechBaseCEIV.description>What you will unleash!</ZeroTechBaseCEIV.description>
+  <ZeroTechBaseCEV.label>The Seal of Love</ZeroTechBaseCEV.label>
+  <ZeroTechBaseCEV.description>What you will unleash!</ZeroTechBaseCEV.description>
+  <ZeroTechBaseCEVI.label>The Seal of Disgust</ZeroTechBaseCEVI.label>
+  <ZeroTechBaseCEVI.description>What you will unleash!</ZeroTechBaseCEVI.description>
+  <ZeroTechBaseCEVII.label>The Seal of Greed</ZeroTechBaseCEVII.label>
+  <ZeroTechBaseCEVII.description>What you will unleash!</ZeroTechBaseCEVII.description>
+  <ZeroTechBaseCEE.label>The Seal of Truth</ZeroTechBaseCEE.label>
+  <ZeroTechBaseCEE.description>What you will release!</ZeroTechBaseCEE.description>
+  <!-- 进一步的黑暗 -->
+  <!-- 旧日之事拓展包 -->
+  <!--<ZeroTechStoryA.label>Crow's Shadow</ZeroTechStoryA.label>-->
+  <!--<ZeroTechStoryA.description>Those black-winged birds, they're coming(Module required:ZeroTech-afterstory)</ZeroTechStoryA.description>-->
+  <!--<ZeroTechStoryBI.label>exterminate</ZeroTechStoryBI.label>-->
+  <!--<ZeroTechStoryBI.description>Kill them all!(Module required:ZeroTech-afterstory)</ZeroTechStoryBI.description>-->
+  <!--<ZeroTechStoryBII.label>Redemption</ZeroTechStoryBII.label>-->
+  <!--<ZeroTechStoryBII.description>Perhaps this is our chance?(Module required:ZeroTech-afterstory)</ZeroTechStoryBII.description>-->
+</LanguageData>

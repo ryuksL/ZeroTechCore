@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <LingGelFloor_Normal.label>Gel flooring</LingGelFloor_Normal.label>
+  <LingGelFloor_Normal.description>The regular form of the gel floor is clean and tidy, with good aesthetics and suitable cost.</LingGelFloor_Normal.description>
+  <LingGelFloor_Wood.label>Wood grain gel flooring</LingGelFloor_Wood.label>
+  <LingGelFloor_Wood.description>The gel floor carved into wood grain has a more family atmosphere, which is very suitable for laying in a place where a family lives.</LingGelFloor_Wood.description>
+  <LingGelFloor_Rough.label>Coarse ground gel flooring</LingGelFloor_Rough.label>
+  <LingGelFloor_Rough.description>Rough piled up into a gel floor that looks a little cluttered? It is more suitable for outdoors, and the snow that falls on it will automatically melt, making it more convenient to lay.</LingGelFloor_Rough.description>
+  <LingGelFloor_Smooth.label>Sanding the gel floor</LingGelFloor_Smooth.label>
+  <LingGelFloor_Smooth.description>The finely polished and pressed gel floor looks like ice cubes. It has a very high aesthetics, and it is not easy to leave garbage, so it is very troublesome to lay.</LingGelFloor_Smooth.description>
+  <LingGelFloor_Brick.label>Brick type gel floor</LingGelFloor_Brick.label>
+  <LingGelFloor_Brick.description>Cut into small pieces to form a gel floor that looks like it can be eaten? It has a very good aesthetics, but it is more troublesome to lay.</LingGelFloor_Brick.description>
+  <LingGelFloor_Fine.label>Delicate gel flooring</LingGelFloor_Fine.label>
+  <LingGelFloor_Fine.description>I can't see it, but it's a very delicate delicate gel floor, which seems to be liked by people who are obsessed with aristocratic games? It looks very aesthetically pleasing, but it is very cumbersome to lay.</LingGelFloor_Fine.description>
+  <LingGelFloor_Carpet.label>Patterned gel floor</LingGelFloor_Carpet.label>
+  <LingGelFloor_Carpet.description>A delicate gel floor carved with a very beautiful pattern, which seems to be liked by people who are obsessed with aristocratic games? It looks very aesthetically pleasing, but it is very cumbersome to lay.</LingGelFloor_Carpet.description>
+  <LingGelFloor_Water.label>Hydrogel flooring</LingGelFloor_Water.label>
+  <LingGelFloor_Water.description>The water wave form of the gel floor is as if it can sway with the wind, and it is extremely resistant to dirt.</LingGelFloor_Water.description>
+  <LingGelFloor_Soil.label>Plant gel flooring</LingGelFloor_Soil.label>
+  <LingGelFloor_Soil.description>Gel flooring treated with special materials that looks vibrant? It's not that pretty, maybe you can grow something, laying this floor is very laborious, it requires back and forth pounding.</LingGelFloor_Soil.description>
+  <!--<LingGelFloor.label>凝胶地板</LingGelFloor.label>-->
+  <!--<LingGelFloor.description>如同能够随风摇摆的轻盈地板,意外的很能抵抗污秽物.</LingGelFloor.description>-->
+</LanguageData>

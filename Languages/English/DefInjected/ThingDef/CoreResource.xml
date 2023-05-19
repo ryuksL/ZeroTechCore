@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <LingZeroTechBottleCap.label>Zero sub-mechanical core</LingZeroTechBottleCap.label>
+  <LingZeroTechBottleCap.description>A small bottle cap, just holding this little thing makes you feel very happy. It can be used to craft a variety of objects, or to evolve chips in the body</LingZeroTechBottleCap.description>
+  <LingZeroTechBottleCap.comps.0.useLabel>Swallow the bottle cap</LingZeroTechBottleCap.comps.0.useLabel>
+  <LingZeroTechPowerCore.label>Zero sub energy core</LingZeroTechPowerCore.label>
+  <LingZeroTechPowerCore.description>A crystal shimmering with colorful light, a little soft to the touch, but exceptionally tough, you can feel the great energy contained in it, but you don't know what this energy will bring</LingZeroTechPowerCore.description>
+  <LingZeroTechPowerCore.comps.0.useLabel>use it</LingZeroTechPowerCore.comps.0.useLabel>
+  <!--<LingZeroTechBottleCap.comps.1.useLabel>将其吞下</LingZeroTechBottleCap.comps.1.useLabel>-->
+  <!--<LingZeroTechPowerCore.comps.1.useLabel>将其捏碎</LingZeroTechPowerCore.comps.1.useLabel>-->
+</LanguageData>
